@@ -2,6 +2,7 @@ body {
   font-family: Arial, Geneva, Verdana, sans-serif;
 }
 @font-face {
-  font-family: ;
-  src: url();
+  font-family: Emblema One;
+  src: url('http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff'),
+    url('http: //wickedlysmart .com/hfhtmlcss/chapter 8px /journal/EmblemaOne Regular .ttf;');
 }
